@@ -1,0 +1,8 @@
+site_name: "sample-component"
+site_description: "sample-component"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
